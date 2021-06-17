@@ -1,0 +1,33 @@
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\bin\Debug\DE4QLHANGHOA_ADO.exe.config
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\bin\Debug\DE4QLHANGHOA_ADO.exe
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\bin\Debug\DE4QLHANGHOA_ADO.pdb
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.FMATHANG.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.Properties.Resources.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.csproj.GenerateResource.Cache
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.csproj.CoreCompileInputs.cache
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.exe
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.pdb
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.FCONNECT.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.F_CHITIETHANG.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.FormMatHang.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.FMENU.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.FNHAPMATHANG.resources
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.csprojAssemblyReference.cache
+D:\TIN HOC\C#\ProjectLinhC#\DE04_QLHANGHOA\DE4QLHANGHOA_ADO\obj\Debug\DE4QLHANGHOA_ADO.FMATHANG2.resources
+E:\c#_quân\QLBanhang-main\bin\Debug\DE4QLHANGHOA_ADO.exe.config
+E:\c#_quân\QLBanhang-main\bin\Debug\DE4QLHANGHOA_ADO.exe
+E:\c#_quân\QLBanhang-main\bin\Debug\DE4QLHANGHOA_ADO.pdb
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.csprojAssemblyReference.cache
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.FCONNECT.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.FMATHANG.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.FMENU.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.FNHAPMATHANG.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.F_CHITIETHANG.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.Properties.Resources.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.csproj.GenerateResource.cache
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.csproj.CoreCompileInputs.cache
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.exe
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.pdb
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.Form_NhanVien.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.Form_ChiTietNhanVien.resources
+E:\c#_quân\QLBanhang-main\obj\Debug\DE4QLHANGHOA_ADO.Form_Menu.resources
